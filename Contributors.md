@@ -27,6 +27,7 @@
 - [Nishad Kulkarni](https://github.com/Nishadk7)
 - [Malvika Verma](https://github.com/malvikao2)
 - [Karuna Sharma](https://github.com/Karunasharma09)
+- [Abhinav Kumar](https://github.com/AbhiSinha08)
 - [Tai Tai](https://github.com/ywettai-dev)
 - [Varghese George](https://github.com/varghese1508)
 - [DanielTruong](https://github.com/anhduy1202)
